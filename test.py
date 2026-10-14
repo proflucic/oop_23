@@ -6,7 +6,7 @@ from tkinter import *
 def trazi_aktivnost(e,izbor):
     L_razgl=[
         Razgledavanje('Izložba',10,'Zagreb','100 kn'),
-        Razgledavanje('Muzejf',25,'Zagreb','50 kn'),
+        Razgledavanje('Muzej',25,'Zagreb','50 kn'),
         Razgledavanje('Predstava',5,'Rijeka','120 kn')]
     L_izl=[
         Izlet('Plitvice', 10,'Zagreb', 'Zagreb', '500 kn'),
